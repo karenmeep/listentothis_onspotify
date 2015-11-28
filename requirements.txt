@@ -1,0 +1,4 @@
+click==6.2
+funcy==1.6
+praw==3.3.0
+spotipy==2.3.7
